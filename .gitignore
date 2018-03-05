@@ -1,5 +1,6 @@
 *.swp
 *.un~
+output.html
 capybara-*.html
 output.html
 
